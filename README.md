@@ -15,7 +15,7 @@
 
 ## How I made this:
 
-- Front-end I made using only html/css, I don't used ant frameworks (fx. Bootstrap)
+- Front-end I made using only html/css, I don't used any frameworks (fx. Bootstrap)
 - To sign/login function I made a database system with registration on only my site, and also I added google account sign in.
 - To add post, firstly you need get vk access token, then give it access token to my site form. And then, my site use vk api functions to add posts.
 - Also, for autenfication I used cookies.
